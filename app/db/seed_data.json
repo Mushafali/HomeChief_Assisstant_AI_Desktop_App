@@ -1,0 +1,169 @@
+{
+  "recipes": [
+    {
+      "title": "Simple Crepes",
+      "description": "Classic thin crepes perfect for sweet or savory fillings.",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity": "1 cup"},
+        {"name": "Eggs", "quantity": "2"},
+        {"name": "Milk", "quantity": "1 1/4 cups"},
+        {"name": "Butter (melted)", "quantity": "2 tbsp"},
+        {"name": "Salt", "quantity": "pinch"}
+      ],
+      "steps": [
+        "Whisk flour, eggs, milk, butter, and salt until smooth.",
+        "Heat a nonstick pan; pour a thin layer of batter; swirl to coat.",
+        "Cook until edges lift, flip, and cook 20–30s. Repeat.",
+        "Fill with fruit, jam, or savory fillings and serve."
+      ],
+      "time_minutes": 20,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Breakfast", "Dessert"]
+    },
+    {
+      "title": "Spaghetti Aglio e Olio",
+      "description": "A quick Italian pasta with garlic, olive oil, and chili flakes.",
+      "ingredients": [
+        {"name": "Spaghetti", "quantity": "200 g"},
+        {"name": "Garlic", "quantity": "4 cloves"},
+        {"name": "Olive oil", "quantity": "3 tbsp"},
+        {"name": "Red pepper flakes", "quantity": "1/2 tsp"},
+        {"name": "Parsley", "quantity": "2 tbsp"},
+        {"name": "Salt", "quantity": "to taste"}
+      ],
+      "steps": [
+        "Cook spaghetti in salted water until al dente.",
+        "Sauté sliced garlic in olive oil until fragrant; add chili flakes.",
+        "Toss pasta with oil, garlic, and chopped parsley. Season and serve."
+      ],
+      "time_minutes": 15,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Dinner", "Italian"]
+    },
+    {
+      "title": "Veggie Omelette",
+      "description": "Fluffy omelette with mixed vegetables and cheese.",
+      "ingredients": [
+        {"name": "Eggs", "quantity": "3"},
+        {"name": "Bell pepper", "quantity": "1/2, diced"},
+        {"name": "Onion", "quantity": "1/4, diced"},
+        {"name": "Spinach", "quantity": "1 cup"},
+        {"name": "Cheese", "quantity": "1/3 cup"},
+        {"name": "Salt & pepper", "quantity": "to taste"}
+      ],
+      "steps": [
+        "Beat eggs with salt and pepper.",
+        "Sauté onion and pepper; add spinach to wilt.",
+        "Pour eggs; cook softly; add cheese; fold and serve."
+      ],
+      "time_minutes": 12,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Breakfast", "Quick"]
+    },
+    {
+      "title": "Chicken Stir-Fry",
+      "description": "Colorful chicken and vegetables in a savory sauce.",
+      "ingredients": [
+        {"name": "Chicken breast", "quantity": "300 g, sliced"},
+        {"name": "Broccoli", "quantity": "1 cup florets"},
+        {"name": "Carrot", "quantity": "1, sliced"},
+        {"name": "Bell pepper", "quantity": "1, sliced"},
+        {"name": "Soy sauce", "quantity": "2 tbsp"},
+        {"name": "Garlic & ginger", "quantity": "1 tsp each, minced"}
+      ],
+      "steps": [
+        "Stir-fry chicken until browned; remove.",
+        "Stir-fry vegetables until crisp-tender.",
+        "Return chicken; add soy sauce, garlic, ginger; toss and serve."
+      ],
+      "time_minutes": 25,
+      "difficulty": "Medium",
+      "image_path": "",
+      "categories": ["Dinner", "Asian"]
+    },
+    {
+      "title": "Tomato Soup",
+      "description": "Comforting tomato soup, perfect with grilled cheese.",
+      "ingredients": [
+        {"name": "Tomatoes", "quantity": "800 g canned"},
+        {"name": "Onion", "quantity": "1, chopped"},
+        {"name": "Garlic", "quantity": "2 cloves"},
+        {"name": "Vegetable broth", "quantity": "2 cups"},
+        {"name": "Cream (optional)", "quantity": "1/4 cup"},
+        {"name": "Salt & pepper", "quantity": "to taste"}
+      ],
+      "steps": [
+        "Sauté onion and garlic until soft.",
+        "Add tomatoes and broth; simmer 15 minutes.",
+        "Blend until smooth; add cream; season and serve."
+      ],
+      "time_minutes": 30,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Lunch", "Soup"]
+    },
+    {
+      "title": "Grilled Cheese Sandwich",
+      "description": "Golden, gooey grilled cheese sandwich.",
+      "ingredients": [
+        {"name": "Bread", "quantity": "2 slices"},
+        {"name": "Cheddar cheese", "quantity": "2 slices"},
+        {"name": "Butter", "quantity": "1 tbsp"}
+      ],
+      "steps": [
+        "Butter bread; place cheese between slices.",
+        "Grill on a skillet until golden on both sides."
+      ],
+      "time_minutes": 8,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Lunch", "Quick"]
+    },
+    {
+      "title": "Pancakes",
+      "description": "Fluffy pancakes for a hearty breakfast.",
+      "ingredients": [
+        {"name": "Flour", "quantity": "1 cup"},
+        {"name": "Baking powder", "quantity": "2 tsp"},
+        {"name": "Sugar", "quantity": "1 tbsp"},
+        {"name": "Milk", "quantity": "3/4 cup"},
+        {"name": "Egg", "quantity": "1"},
+        {"name": "Butter (melted)", "quantity": "2 tbsp"}
+      ],
+      "steps": [
+        "Whisk dry ingredients; add milk, egg, butter; mix.",
+        "Cook scoops on a griddle until bubbles; flip; serve."
+      ],
+      "time_minutes": 18,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Breakfast", "Dessert"]
+    },
+    {
+      "title": "Chocolate Chip Cookies",
+      "description": "Crispy edges, chewy centers, loaded with chocolate.",
+      "ingredients": [
+        {"name": "Flour", "quantity": "1 1/4 cups"},
+        {"name": "Brown sugar", "quantity": "1/2 cup"},
+        {"name": "White sugar", "quantity": "1/4 cup"},
+        {"name": "Butter", "quantity": "1/2 cup"},
+        {"name": "Egg", "quantity": "1"},
+        {"name": "Chocolate chips", "quantity": "3/4 cup"},
+        {"name": "Baking soda", "quantity": "1/2 tsp"},
+        {"name": "Salt", "quantity": "pinch"}
+      ],
+      "steps": [
+        "Cream butter and sugars; beat in egg.",
+        "Stir in dry ingredients and chocolate chips.",
+        "Scoop and bake at 175°C/350°F for ~10–12 minutes."
+      ],
+      "time_minutes": 25,
+      "difficulty": "Easy",
+      "image_path": "",
+      "categories": ["Dessert", "Snack"]
+    }
+  ]
+}

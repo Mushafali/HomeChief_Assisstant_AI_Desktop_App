@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Logs, caches, coverage
+*.log
+.logs/
+pytest_cache/
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+.cache/
+
+# Application runtime data
+# Local database and generated data should not be committed
+/data/
+
+# Node/Web (if any in future)
+node_modules/
+
+# Images generated at runtime (if any)
+app/assets/images/generated/

@@ -1,0 +1,17 @@
+PyQt6>=6.7.0
+python-dotenv>=1.0.1
+google-generativeai>=0.7.2
+requests>=2.32.3
+httpx>=0.27.2
+pydantic>=2.9.2
+Pillow>=10.4.0
+platformdirs>=4.3.6
+
+# AI / Google stack extras (sometimes not pulled in automatically)
+grpcio>=1.65.0
+google-api-core>=2.19.0
+google-auth>=2.35.0
+certifi>=2024.7.4
+
+# Packaging (optional, for building Windows exe)
+pyinstaller>=6.16.0
